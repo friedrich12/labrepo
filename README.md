@@ -14,6 +14,8 @@ the concatenation of the two entered inputs.
 
 This project is open-source. Please see the license.md file for more information.
 
+Since the project is open source and we do not mind others copying, making modifications, or publishing this project or any derivation of it so long as it retains the license and copyright file included in the original project, the MIT open source license concisely dictates our wishes for the distribution of the project. It also asserts that the software is provided "as-is" and that we are not responsible for anything.
+
 **Contributions**
 
 Any contributions can be made to the main repo by simply forking and then creating a pull request with the to-be contributed code.
