@@ -20,3 +20,6 @@ Any contributions can be made to the main repo by simply forking and then creati
 It will then be reviewed and if determined to be sufficient, will be added as necessary to the repo.
 Please see the code-of-conduct.md file for more information.
 
+**Code of Conduct**
+We decided on creating a code of conduct that lets everyone contribute to our code regardless of who they are or where they are from. All ideas are celebrated and discussed in a friendly environment.
+
