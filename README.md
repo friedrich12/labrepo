@@ -12,7 +12,7 @@ the concatenation of the two entered inputs.
 
 **Licensing**
 
-This project (talk about how its licensed). Please see the license.md file for more information.
+This project is open-source. Please see the license.md file for more information.
 
 **Contributions**
 
